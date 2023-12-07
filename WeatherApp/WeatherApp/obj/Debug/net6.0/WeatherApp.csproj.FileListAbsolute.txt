@@ -1,0 +1,34 @@
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfo.cs
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.exe
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.deps.json
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.runtimeconfig.json
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.dll
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.pdb
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CopyComplete
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.dll
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\refint\WeatherApp.dll
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.pdb
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.genruntimeconfig.cache
+C:\Users\kerem\source\repos\Emrah Hoca\WeatherApp\WeatherApp\obj\Debug\net6.0\ref\WeatherApp.dll
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.exe
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.deps.json
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.runtimeconfig.json
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.dll
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.pdb
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfo.cs
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CopyComplete
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.dll
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\refint\WeatherApp.dll
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.pdb
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.genruntimeconfig.cache
+C:\Users\rewin\OneDrive\Masaüstü\WeatherApp\WeatherApp\obj\Debug\net6.0\ref\WeatherApp.dll
